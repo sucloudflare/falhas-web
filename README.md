@@ -2,7 +2,7 @@
 curl "http://challenge.localhost/blob/..%2f..%2f..%2fflag"
 2 xss 
 
-h1>Laboratório Seguro de XSS Armazenado</h1>
+<h1>Laboratório Seguro de XSS Armazenado</h1>
 
   <h2>1. Estrutura do laboratório</h2>
     <pre>
