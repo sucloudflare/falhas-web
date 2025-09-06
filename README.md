@@ -1,6 +1,6 @@
 1  Path Traversal! 🛡️
 curl "http://challenge.localhost/blob/..%2f..%2f..%2fflag"
-2 xss 
+## 2 xss
 
 <h1>Laboratório Seguro de XSS Armazenado</h1>
 
